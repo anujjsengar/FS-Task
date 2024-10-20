@@ -1,0 +1,83 @@
+body{
+    
+}
+.timetable{
+    margin-left: 15%;
+}
+
+table{
+    background-color: antiquewhite;
+    height: 700px;
+    width: 80%;
+    border-style: groove;
+}
+tr,th{
+    text-align:center;
+    font-size:larger;
+    font-style: italic;
+}
+.title{
+    background-color: gray;
+    border-radius: 21px;
+
+}
+.hour{
+    background-color: gray;
+}
+.science{
+    background-color: aquamarine;
+    border-radius: 21px;
+}
+.maths{
+    background-color:aqua;
+    border-radius: 21px;
+}
+.lunch{
+    background-color:fuchsia;
+    border-radius: 21px;
+}
+.english{
+    background-color: blueviolet;
+    border-radius: 21px;
+}
+.hindi{
+    background-color: cornflowerblue;
+    border-radius: 21px;
+}
+.project{
+    background-color: yellowgreen;
+    border-radius: 21px;
+}
+.sports{
+    background-color: goldenrod ;
+    border-radius: 21px;
+}
+.social{
+    background-color: pink;
+    border-radius: 21px;
+}
+.day{
+    background-color:rgb(220, 237, 158);
+    border-radius: 21px;
+}
+.arts{
+    background-color: brown;
+    border-radius: 21px;
+}
+.Project{
+    background-color: tomato;
+    border-radius: 21px;
+}
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+
+  th:hover {
+    background-color: #f1f1f1;
+    cursor: pointer; 
+  }
+
+  td:hover {
+    background-color: #e0e0e0;
+  }
